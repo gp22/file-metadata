@@ -1,0 +1,19 @@
+{
+  "name": "file-metadata",
+  "version": "1.0.0",
+  "description": "This simple service let's you submit form data that includes a file upload. When you submit a file, you will receive the filesize in bytes in the JSON response.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gp22/file-metadata.git"
+  },
+  "author": "gp22",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gp22/file-metadata/issues"
+  },
+  "homepage": "https://github.com/gp22/file-metadata#readme"
+}
