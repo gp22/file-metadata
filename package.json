@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/gp22/file-metadata/issues"
   },
-  "homepage": "https://github.com/gp22/file-metadata#readme"
+  "homepage": "https://github.com/gp22/file-metadata#readme",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.1"
+  }
 }
